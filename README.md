@@ -25,4 +25,4 @@ Praticar os principais conceitos de Programação Orientada a Objetos, como:
 
 ## Autor
 
-Matheus
+Matheus Novaski de Souza
